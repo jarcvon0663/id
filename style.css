@@ -58,6 +58,7 @@ main{
     margin-top: 5px;
     color: blue;
     font-weight: bolder;
+    text-decoration: none;
 }
 
 .cont-tarjeta .logo img{
