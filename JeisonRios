@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ID SAMTEL</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <main>
+        <div class="cont-tarjeta">
+            <div class="logo">
+                <img src="./img/Samtel.png" alt="">
+            </div>
+            <div class="cont-tarjeta__logo">
+                <img src="./img/J.png" alt="">
+                <h1>Jeison Arturo Rios Castaño</h1>
+                <p>1.016.053.555</p>
+                <p>RH: O+</p>
+                <a href="./pdf/Carnet.pdf" target="blank">Descargar <i class='bx bxs-file-pdf' style="color: red;"></i></a>
+            </div>
+        </div>
+    </main>
+</body>
+
+</html>
