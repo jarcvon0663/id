@@ -54,9 +54,9 @@ main{
 }
 
 .cont-tarjeta a{
-    padding: 52px;
+    padding: 45px;
     margin-top: 5px;
-    color: blue;
+    color: rgb(3, 3, 58);
     font-weight: bolder;
     text-decoration: none;
 }
