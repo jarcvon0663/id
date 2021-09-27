@@ -9,6 +9,7 @@ main{
     height: 100vh;
     background-color: aliceblue;
     font-family: 'Calibri';
+    overflow: hidden;
 }
 
 .cont-tarjeta{
